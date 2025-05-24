@@ -1,2 +1,5 @@
 1|RedBull|Energy Drink|Drinks
 2|Monster|Energy Drink|Drinks
+3|PlayStation|Gaming Console|Entertainments
+4|Xbox|Gaming Console|Entertainments
+5|Nintendo|Gaming Console|Entertainments
